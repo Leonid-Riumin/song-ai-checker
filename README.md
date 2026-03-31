@@ -36,4 +36,4 @@ Le programme fonctionne en plusieurs étapes :
 - scikit-learn (machine learning)
 - numpy
 
-## Structure du projet
+
